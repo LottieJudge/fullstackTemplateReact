@@ -51,6 +51,7 @@ npm run web
 
 #File Tree Template
 
+```sh
 src
 |
 +-- app               # application layer containing:
@@ -78,3 +79,6 @@ src
 +-- types             # shared types used across the application
 |
 +-- utils             # shared utility functions
+```
+
+
