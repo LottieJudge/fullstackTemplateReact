@@ -20,7 +20,7 @@ Also, relative paths are setup in the `tsconfig.json` file so that you can easil
 ---
 Clone the repository:
 ```
-https://github.com/Tenacity-Dev/vite-react-ts-tailwind-tanstack-query-eslint-prettier.git
+git@github.com:LottieJudge/fullstackTemplateReact.git
 ```
 
 cd into the repository:
